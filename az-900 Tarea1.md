@@ -2,7 +2,7 @@ Login con Command Line Interface instalado
 
 az login 
 
- ![image-20201220102629124](C:\Users\jcarl\AppData\Roaming\Typora\typora-user-images\image-20201220102629124.png)         
+ 
 
  
 
