@@ -4,7 +4,7 @@ az login
 
 
 
- ![login]([AZ900_PRACTICA_VM_UBUNTU_AZCLI/img1.png at main · CastilloGit/AZ900_PRACTICA_VM_UBUNTU_AZCLI (github.com)](https://github.com/CastilloGit/AZ900_PRACTICA_VM_UBUNTU_AZCLI/blob/main/img/img1.png)
+ ![login](https://github.com/CastilloGit/AZ900_PRACTICA_VM_UBUNTU_AZCLI/blob/main/img/img1.png)
 
 Creación del grupo de recursos
 
