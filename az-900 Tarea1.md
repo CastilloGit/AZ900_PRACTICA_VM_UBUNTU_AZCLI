@@ -52,26 +52,26 @@ sudo apt install -y apache2 apache2-utils
 
 Comprobar el estatus del servidor web
 
- ![login](https://github.com/CastilloGit/AZ900_PRACTICA_VM_UBUNTU_AZCLI/blob/main/img/img1.png)
+ ![login](https://github.com/CastilloGit/AZ900_PRACTICA_VM_UBUNTU_AZCLI/blob/main/img/img10.png)
 
 Mensaje web cd /var/www/html
 
- ![login](https://github.com/CastilloGit/AZ900_PRACTICA_VM_UBUNTU_AZCLI/blob/main/img/img10.png)
+ ![login](https://github.com/CastilloGit/AZ900_PRACTICA_VM_UBUNTU_AZCLI/blob/main/img/img11.png)
 
 Poner nota en la página
 
- ![login](https://github.com/CastilloGit/AZ900_PRACTICA_VM_UBUNTU_AZCLI/blob/main/img/img11.png)
+ ![login](https://github.com/CastilloGit/AZ900_PRACTICA_VM_UBUNTU_AZCLI/blob/main/img/img12.png)
 
  
 
 Habilito puerto 80
 
- ![login](https://github.com/CastilloGit/AZ900_PRACTICA_VM_UBUNTU_AZCLI/blob/main/img/img12.png)
+ ![login](https://github.com/CastilloGit/AZ900_PRACTICA_VM_UBUNTU_AZCLI/blob/main/img/img13.png)
 
 Comprobante de cambios
 
  
 
-![login](https://github.com/CastilloGit/AZ900_PRACTICA_VM_UBUNTU_AZCLI/blob/main/img/img13.png)
+![login](https://github.com/CastilloGit/AZ900_PRACTICA_VM_UBUNTU_AZCLI/blob/main/img/img14.png)
 
  
