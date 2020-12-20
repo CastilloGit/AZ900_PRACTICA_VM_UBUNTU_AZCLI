@@ -2,7 +2,7 @@ Login con Command Line Interface instalado
 
 az login 
 
- ![img1](img/img1.PNG)
+ ![img1](\img\img1.PNG)
 
  
 
